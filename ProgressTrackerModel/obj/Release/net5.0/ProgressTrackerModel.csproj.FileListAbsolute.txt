@@ -1,0 +1,12 @@
+C:\Projects\ProgressTracker\ProgressTracker\ProgressTrackerModel\bin\Release\net5.0\ProgressTrackerModel.deps.json
+C:\Projects\ProgressTracker\ProgressTracker\ProgressTrackerModel\bin\Release\net5.0\ProgressTrackerModel.dll
+C:\Projects\ProgressTracker\ProgressTracker\ProgressTrackerModel\bin\Release\net5.0\ref\ProgressTrackerModel.dll
+C:\Projects\ProgressTracker\ProgressTracker\ProgressTrackerModel\bin\Release\net5.0\ProgressTrackerModel.pdb
+C:\Projects\ProgressTracker\ProgressTracker\ProgressTrackerModel\obj\Release\net5.0\ProgressTrackerModel.csproj.AssemblyReference.cache
+C:\Projects\ProgressTracker\ProgressTracker\ProgressTrackerModel\obj\Release\net5.0\ProgressTrackerModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProgressTracker\ProgressTracker\ProgressTrackerModel\obj\Release\net5.0\ProgressTrackerModel.AssemblyInfoInputs.cache
+C:\Projects\ProgressTracker\ProgressTracker\ProgressTrackerModel\obj\Release\net5.0\ProgressTrackerModel.AssemblyInfo.cs
+C:\Projects\ProgressTracker\ProgressTracker\ProgressTrackerModel\obj\Release\net5.0\ProgressTrackerModel.csproj.CoreCompileInputs.cache
+C:\Projects\ProgressTracker\ProgressTracker\ProgressTrackerModel\obj\Release\net5.0\ProgressTrackerModel.dll
+C:\Projects\ProgressTracker\ProgressTracker\ProgressTrackerModel\obj\Release\net5.0\ref\ProgressTrackerModel.dll
+C:\Projects\ProgressTracker\ProgressTracker\ProgressTrackerModel\obj\Release\net5.0\ProgressTrackerModel.pdb
